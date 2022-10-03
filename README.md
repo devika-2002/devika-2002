@@ -17,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/hEMF9k5UHh2U0/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
-
 
 <a href="#"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devika-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
